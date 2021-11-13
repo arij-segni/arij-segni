@@ -1,8 +1,8 @@
 
 
 <h1 align="center">
-Hi There 👋 <br> 
-This is Arij Segni
+Hi 👋 <br> 
+Welcome to my github 
 </h1>
 
 <h3 align="center">
