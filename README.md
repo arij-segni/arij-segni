@@ -27,7 +27,7 @@ Here is the list of the technologies I'm currently using
 
 <p align="center">
   <a href="https://github.com/arij-segni">
-    <img src="https://github-readme-stats.vercel.app/api?username=fjerbi&count_private=true&hide_border=true&show_icons=true" alt="arij-segni's github stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=arij-segni&count_private=true&hide_border=true&show_icons=true" alt="arij-segni's github stats">
   </a>
 </p>
 
